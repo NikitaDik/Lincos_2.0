@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Lincos_2.0\\LinkosTranslator\\LinkosTranslator\\LinkosTranslator.csproj",
-      "projectName": "LinkosTranslator",
-      "projectPath": "E:\\Lincos_2.0\\LinkosTranslator\\LinkosTranslator\\LinkosTranslator.csproj",
+      "projectUniqueName": "E:\\Lincos_2.0\\Lincos_2.0\\Lincos_2.0.csproj",
+      "projectName": "Lincos_2.0",
+      "projectPath": "E:\\Lincos_2.0\\Lincos_2.0\\Lincos_2.0.csproj",
       "packagesPath": "C:\\Users\\fluttershY_\\.nuget\\packages\\",
-      "outputPath": "E:\\Lincos_2.0\\LinkosTranslator\\LinkosTranslator\\obj\\",
+      "outputPath": "E:\\Lincos_2.0\\Lincos_2.0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

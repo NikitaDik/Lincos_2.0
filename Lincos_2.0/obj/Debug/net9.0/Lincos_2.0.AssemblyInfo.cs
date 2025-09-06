@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LinkosTranslator")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Lincos_2.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ee6919fe879c40a0b30e2a6e18ffb0ef0a15919")]
-[assembly: System.Reflection.AssemblyProductAttribute("LinkosTranslator")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LinkosTranslator")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b99cf768c81af1a3ba70e568023d8a0e5a0f5173")]
+[assembly: System.Reflection.AssemblyProductAttribute("Lincos_2.0")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Lincos_2.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
