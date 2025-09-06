@@ -22,6 +22,8 @@ public class TranslationService {
     }
 
     public string Translate(string str) {
+        str = str.Replace("\\", null);
+        
         foreach (KeyValuePair<string, string> rule in _config.GetTranslationRules()) {
             str = str.Replace(rule.Key, rule.Value);
         }

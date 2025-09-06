@@ -7,7 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bee3abda-92ce-4dab-9b13-8440bc2def1d" name="Changes" comment="" />
+    <list default="true" id="bee3abda-92ce-4dab-9b13-8440bc2def1d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Исходный текст.md" beforeDir="false" afterPath="$PROJECT_DIR$/Исходный текст.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757195448977</updated>
-      <workItem from="1757195449974" duration="4548000" />
+      <workItem from="1757195449974" duration="4857000" />
     </task>
     <task id="LOCAL-00001" summary="пересоздал решение">
       <option name="closed" value="true" />
@@ -110,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757200044196</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="+">
+      <option name="closed" value="true" />
+      <created>1757200060114</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757200060114</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +144,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="пересоздал решение" />
     <MESSAGE value="сделал яндекс переводчик" />
-    <option name="LAST_COMMIT_MESSAGE" value="сделал яндекс переводчик" />
+    <MESSAGE value="+" />
+    <option name="LAST_COMMIT_MESSAGE" value="+" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lincos_2.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad7d040765b41368cc5d8b0f8b664219c68d8462")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f8ba719baa06a0fb74fd21394d6591430ea5fbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lincos_2.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lincos_2.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
