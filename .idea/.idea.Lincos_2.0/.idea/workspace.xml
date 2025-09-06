@@ -7,25 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bee3abda-92ce-4dab-9b13-8440bc2def1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lincos_2.0/Config.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lincos_2.0/TranslationService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lincos_2.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lincos_2.0/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lincos_2.0/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lincos_2.0/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lincos_2.0/obj/Debug/net9.0/Lincos_2.0.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lincos_2.0/obj/Debug/net9.0/Lincos_2.0.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lincos_2.0/obj/Debug/net9.0/Lincos_2.0.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lincos_2.0/obj/Debug/net9.0/Lincos_2.0.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lincos_2.0/obj/Debug/net9.0/Lincos_2.0.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Lincos_2.0/obj/Debug/net9.0/Lincos_2.0.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lincos_2.0/obj/Debug/net9.0/Lincos_2.0.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lincos_2.0/obj/Debug/net9.0/Lincos_2.0.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lincos_2.0/obj/Lincos_2.0.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lincos_2.0/obj/Lincos_2.0.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lincos_2.0/obj/Lincos_2.0.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Lincos_2.0/obj/Lincos_2.0.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lincos_2.0/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lincos_2.0/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lincos_2.0/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lincos_2.0/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lincos_2.0/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Lincos_2.0/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lincos_2.0/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Lincos_2.0/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Исходный текст.md" beforeDir="false" afterPath="$PROJECT_DIR$/Исходный текст.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Послание.md" beforeDir="false" afterPath="$PROJECT_DIR$/Послание.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Справочник.md" beforeDir="false" afterPath="$PROJECT_DIR$/Справочник.md" afterDir="false" />
-    </list>
+    <list default="true" id="bee3abda-92ce-4dab-9b13-8440bc2def1d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757195448977</updated>
-      <workItem from="1757195449974" duration="4243000" />
+      <workItem from="1757195449974" duration="4548000" />
     </task>
     <task id="LOCAL-00001" summary="пересоздал решение">
       <option name="closed" value="true" />
@@ -120,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757195492442</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="сделал яндекс переводчик">
+      <option name="closed" value="true" />
+      <created>1757200044196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757200044196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +132,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="пересоздал решение" />
-    <option name="LAST_COMMIT_MESSAGE" value="пересоздал решение" />
+    <MESSAGE value="сделал яндекс переводчик" />
+    <option name="LAST_COMMIT_MESSAGE" value="сделал яндекс переводчик" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
