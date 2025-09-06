@@ -1,0 +1,15 @@
+E:\Lincos_2.0\Lincos_2.0\bin\Debug\net9.0\Lincos_2.0.exe
+E:\Lincos_2.0\Lincos_2.0\bin\Debug\net9.0\Lincos_2.0.deps.json
+E:\Lincos_2.0\Lincos_2.0\bin\Debug\net9.0\Lincos_2.0.runtimeconfig.json
+E:\Lincos_2.0\Lincos_2.0\bin\Debug\net9.0\Lincos_2.0.dll
+E:\Lincos_2.0\Lincos_2.0\bin\Debug\net9.0\Lincos_2.0.pdb
+E:\Lincos_2.0\Lincos_2.0\obj\Debug\net9.0\Lincos_2.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lincos_2.0\Lincos_2.0\obj\Debug\net9.0\Lincos_2.0.AssemblyInfoInputs.cache
+E:\Lincos_2.0\Lincos_2.0\obj\Debug\net9.0\Lincos_2.0.AssemblyInfo.cs
+E:\Lincos_2.0\Lincos_2.0\obj\Debug\net9.0\Lincos_2.0.csproj.CoreCompileInputs.cache
+E:\Lincos_2.0\Lincos_2.0\obj\Debug\net9.0\Lincos_2.0.sourcelink.json
+E:\Lincos_2.0\Lincos_2.0\obj\Debug\net9.0\Lincos_2.0.dll
+E:\Lincos_2.0\Lincos_2.0\obj\Debug\net9.0\refint\Lincos_2.0.dll
+E:\Lincos_2.0\Lincos_2.0\obj\Debug\net9.0\Lincos_2.0.pdb
+E:\Lincos_2.0\Lincos_2.0\obj\Debug\net9.0\Lincos_2.0.genruntimeconfig.cache
+E:\Lincos_2.0\Lincos_2.0\obj\Debug\net9.0\ref\Lincos_2.0.dll
